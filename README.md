@@ -1,2 +1,2 @@
 ## linguis_nostri
-Ugandan lanuguages NLP datasets
+Ugandan lanuguages' NLP datasets
