@@ -1,2 +1,2 @@
-# verba-mea
-Material to all my tech-talk sessions
+## linguis_nostri
+Ugandan lanuguages NLP datasets
