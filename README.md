@@ -1,2 +1,2 @@
-## Linguis_nostri: Taking the African Narrative to AI
+## Linguis_nostri: Bringing AI to Ugandan Languages.
 NLP datasets of Ugandan Languages.
