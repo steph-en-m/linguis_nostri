@@ -1,2 +1,2 @@
 ## Linguis_nostri: Bringing AI to Ugandan Languages.
-NLP datasets of Ugandan Languages.
+A collection of Natural Language Processing datasets built from Ugandan Languages.
