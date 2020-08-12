@@ -1,6 +1,5 @@
 import pandas as pd
 import numpy as np
-from collections import Counter
 
 text = pd.read_csv('./Stephen_data_acholi.csv')
 
